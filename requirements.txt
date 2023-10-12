@@ -21,3 +21,4 @@ libmagic
 opensearch-py
 matplotlib
 langchain-visualizer
+boto3
